@@ -8,6 +8,14 @@ hr {
     width: 500px;
 }
 
+.announcebox{
+    color: white;
+    border: gold 1px solid;
+    background-color: gold;
+    text-align: center;
+    
+}
+
 .button {
     background-color: #4CAF50;
     border-radius: 4px;
